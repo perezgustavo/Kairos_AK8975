@@ -1,3 +1,6 @@
+#Autor: Gustavo Perez Sanchez
+#Fecha: 14/12/2021
+
 from pyb import I2C
 from pyb import delay
 from array import array
